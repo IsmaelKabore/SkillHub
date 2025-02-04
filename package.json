@@ -1,0 +1,19 @@
+{
+    "name": "SkillHub",
+    "version": "1.0.0",
+    "description": "A Localized Skill and Service Sharing Platform",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "bcrypt": "^5.1.1",
+        "express": "^4.21.2",
+        "express-validator": "^7.2.1",
+        "jsonwebtoken": "^9.0.2",
+        "pg": "^8.13.1",
+        "winston": "^3.17.0"
+    },
+    "author": "Ismael",
+    "license": "ISC"
+}
